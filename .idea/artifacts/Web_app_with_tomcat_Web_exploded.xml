@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Web-app-with-tomcat:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Web_app_with_tomcat_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Web-app-with-tomcat/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Web-app-with-tomcat" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
